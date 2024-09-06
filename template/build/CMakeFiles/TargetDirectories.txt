@@ -1,0 +1,9 @@
+/home/liam-skirrow/Documents/code/OpenGL-tutorials/template/build/CMakeFiles/template-project.dir
+/home/liam-skirrow/Documents/code/OpenGL-tutorials/template/build/CMakeFiles/edit_cache.dir
+/home/liam-skirrow/Documents/code/OpenGL-tutorials/template/build/CMakeFiles/rebuild_cache.dir
+/home/liam-skirrow/Documents/code/OpenGL-tutorials/template/build/build/CMakeFiles/edit_cache.dir
+/home/liam-skirrow/Documents/code/OpenGL-tutorials/template/build/build/CMakeFiles/rebuild_cache.dir
+/home/liam-skirrow/Documents/code/OpenGL-tutorials/template/build/build/src/CMakeFiles/glfw.dir
+/home/liam-skirrow/Documents/code/OpenGL-tutorials/template/build/build/src/CMakeFiles/update_mappings.dir
+/home/liam-skirrow/Documents/code/OpenGL-tutorials/template/build/build/src/CMakeFiles/edit_cache.dir
+/home/liam-skirrow/Documents/code/OpenGL-tutorials/template/build/build/src/CMakeFiles/rebuild_cache.dir

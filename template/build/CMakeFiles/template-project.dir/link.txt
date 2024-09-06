@@ -1,0 +1,1 @@
+/usr/bin/cc "CMakeFiles/template-project.dir/main.c.o" -o template-project  /usr/lib/x86_64-linux-gnu/libGL.so build/src/libglfw3.a /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl 

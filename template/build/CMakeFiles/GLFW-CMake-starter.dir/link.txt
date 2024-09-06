@@ -1,0 +1,1 @@
+/usr/bin/cc "CMakeFiles/GLFW-CMake-starter.dir/main.c.o" -o GLFW-CMake-starter  /usr/lib/x86_64-linux-gnu/libGL.so build/src/libglfw3.a /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl 
